@@ -48,7 +48,7 @@ With over 20 years of experience in IT, systems, and project management, I speci
 ---
 
 ### Connect with Me
-- **Blog** [Prosas-Tech](https://prosastech.blogspot.com)
+- **Blog:** [Prosas Tech](https://prosastech.blogspot.com)
 - **LinkedIn:** [linkedin.com/in/glrec](https://www.linkedin.com/in/glrec/)
 - **Email:** glrec@yahoo.com.br
 - **Location:** São Paulo, Brazil 
