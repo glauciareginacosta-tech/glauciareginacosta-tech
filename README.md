@@ -40,7 +40,11 @@ With over 20 years of experience in IT, systems, and project management, I speci
 - **Certified Function Point Specialist (CFPS background)** – Software Measurement
 - **Agile Certifications:** Certified Scrum Master (itCerts), Scrum Product Owner (itCerts), Leading SAFe
 - **Inclusive Leadership Professional Certificate** – CatalystX / edX
-
+- **DIO Course Skills - 08/10/2026
+ <img src="https://github.com/glauciareginacosta-tech/glauciareginacosta-tech/blob/main/image2.png" width="50%">
+ <BR>
+ <img src="https://github.com/glauciareginacosta-tech/glauciareginacosta-tech/blob/main/image3.jpg" width="50%">
+  
 ---
 
 ### Connect with Me
