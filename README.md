@@ -1,22 +1,21 @@
 # Hi there, I'm Gláucia Regina 👋
 
-### 📊 Data Analyst | Software Metrics Specialist | Business Intelligence
-
-With over 20 years of experience in IT, systems, and project management, I specialize in **Data Analysis, Software Measurement, and BI Solutions**. My focus is on transforming raw operational data into actionable strategic insights, building interactive dashboards, and establishing reliable performance metrics for enterprise environments.
-
----
-
-### 🚀 About Me
-
-- 💻 **Core Expertise:** Data Analysis, Business Intelligence, Software Metrics (CFPS background), Requirements Engineering, and Agile Methodologies.
-- 🛠️ **Data Stack:** Power BI, Advanced Excel, SAS, Python, R, and SQL.
-- 🏢 **Industry Experience:** Proven track record in major corporate and financial ecosystems (e.g., Vivo, Banco Bradesco, Banco Next).
-- 🤖 **Innovation:** Experienced in comparative analysis between expert human measurements and AI-driven metrics models.
-- 🎓 **Education & Growth:** B.S. in Computer Science | Postgraduate in Project Management & Accessibility, Diversity, and Inclusion.
+### Data Analyst | Software Metrics Specialist 
+With over 20 years of experience in IT, systems, and project management, I specialize in **Data Analysis and Software Measurement**. My focus is on transforming raw operational data into actionable strategic insights, building interactive dashboards, and function point mensurement.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  About Me
+
+- **Core Expertise:** Data Analysis, Business Intelligence, Software Metrics (CFPS background), Requirements Engineering, and Agile Methodologies.
+- **Data Stack:** Power BI, Advanced Excel, SAS, Python, R, and SQL.
+- **Industry Experience:** Proven track record in major corporate and financial ecosystems (e.g., Vivo, Banco Bradesco, Banco Next).
+- **Innovation:** Experienced in comparative analysis between expert human measurements and AI-driven metrics models.
+- **Education & Growth:** B.S. in Computer Science | Postgraduate in Project Management & Accessibility, Diversity, and Inclusion.
+
+---
+
+### Tech Stack & Tools
 
 **Languages & Data Analysis:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,7 +33,7 @@ With over 20 years of experience in IT, systems, and project management, I speci
 
 ---
 
-### 🏆 Key Certifications & Training
+### Key Certifications & Training
 
 - **Data Science in Python & R** – Udemy
 - **SAS Programming for Data Analysis** – Alura
@@ -44,8 +43,8 @@ With over 20 years of experience in IT, systems, and project management, I speci
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/glrec](https://www.linkedin.com/in/glrec/)
 - **Email:** glrec@yahoo.com.br
-- **Location:** São Paulo, Brazil 🇧🇷
+- **Location:** São Paulo, Brazil 
