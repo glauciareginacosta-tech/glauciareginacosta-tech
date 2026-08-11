@@ -1,4 +1,4 @@
-# Hi there, I'm Gláucia Regina 👋
+# Hi there, I'm Gláucia  👋
 
 ### Data Analyst | Software Metrics Specialist 
 With over 20 years of experience in IT, systems, and project management, I specialize in **Data Analysis and Software Measurement**. My focus is on transforming raw operational data into actionable strategic insights, building interactive dashboards, and function point mensurement.
