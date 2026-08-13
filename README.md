@@ -1,17 +1,17 @@
 # Hi there, I'm Gláucia  👋
 
-### Data Analyst | Function Point Specialist 
+### Data Analyst | Function Point Analyst 
 With over 20 years of experience in IT, systems, and project management, I specialize in **Data Analysis and Software Measurement**. My focus is on transforming raw operational data into actionable strategic insights, building interactive dashboards, and function point mensurement.
 
 ---
 
 ###  About Me
 
-- **Core Expertise:** Data Analysis, Business Intelligence, Software Metrics (CFPS background), Requirements Engineering, and Agile Methodologies.
+- **Core Expertise:** Data Analysis, Business Intelligence, Software Metrics (CFPS), Requirements Engineering, and Agile Methodologies.
 - **Data Stack:** Power BI, Advanced Excel, SAS, Python, R, and SQL.
 - **Industry Experience:** Proven track record in major corporate and financial ecosystems (e.g., Vivo, Banco Bradesco, Banco Next).
 - **Innovation:** Experienced in comparative analysis between expert human measurements and AI-driven metrics models.
-- **Education & Growth:** B.S. in Computer Science | Postgraduate in Project Management & Accessibility, Diversity, and Inclusion.
+- **Education & Growth:** B.S. in Computer Science | Postgraduate in Project Management (in progress) & Accessibility, Diversity, and Inclusion.
 
 ---
 
@@ -37,7 +37,7 @@ With over 20 years of experience in IT, systems, and project management, I speci
 
 - **Data Science in Python & R** – Udemy
 - **SAS Programming for Data Analysis** – Alura
-- **Certified Function Point Specialist (CFPS background)** – Software Measurement
+- **Certified Function Point Specialist (CFPS)** – Software Measurement
 - **Agile Certifications:** Certified Scrum Master (itCerts), Scrum Product Owner (itCerts), Leading SAFe
 - **Inclusive Leadership Professional Certificate** – CatalystX / edX
 - **DIO Course Skills** - in 08/10/2026
