@@ -8,7 +8,7 @@ With over 20 years of experience in IT, systems, and project management, I speci
 ###  About Me
 
 - **Core Expertise:** Data Analysis, Business Intelligence, Software Metrics (CFPS), Requirements Engineering, and Agile Methodologies.
-- **Data Stack:** Power BI, Advanced Excel, SAS, Python, R, and SQL.
+- **Data Stack:** Power BI, Advanced Excel, SAS, Python, R, Neo4J and SQL.
 - **Industry Experience:** Proven track record in major corporate and financial ecosystems (e.g., Vivo, Banco Bradesco, Banco Next).
 - **Innovation:** Experienced in comparative analysis between expert human measurements and AI-driven metrics models.
 - **Education & Growth:** B.S. in Computer Science | Postgraduate in Project Management (in progress) & Accessibility, Diversity, and Inclusion.
