@@ -7,7 +7,7 @@ With over 20 years of experience in IT, systems, and project management, I speci
 
 ###  About Me
 
-- **Core Expertise:** Data Analysis, Business Intelligence, Software Metrics (CFPS), Requirements Engineering, and Agile Methodologies.
+- **Core Expertise:** Data Analysis, Business Intelligence, Software Metrics (CFPS) - it is outdated, Requirements Engineering, and Agile Methodologies.
 - **Data Stack:** Power BI, Advanced Excel, SAS, Python, R, Neo4J and SQL.
 - **Industry Experience:** Proven track record in major corporate and financial ecosystems (e.g., Vivo, Banco Bradesco, Banco Next).
 - **Innovation:** Experienced in comparative analysis between expert human measurements and AI-driven metrics models.
@@ -37,8 +37,9 @@ With over 20 years of experience in IT, systems, and project management, I speci
 
 - **Data Science in Python & R** – Udemy
 - **SAS Programming for Data Analysis** – Alura
-- **Certified Function Point Specialist (CFPS)** – Software Measurement
-- **Agile Certifications:** Certified Scrum Master (itCerts), Scrum Product Owner (itCerts), Leading SAFe
+- **Certified Function Point Specialist (CFPS)** – Software Measurement (it needs to be updated)
+- **Agile Certifications:** Certified Scrum Master (itCerts), Scrum Product Owner (itCerts)
+- **Agile Couse:** Leading SAFe
 - **Inclusive Leadership Professional Certificate** – CatalystX / edX
 - **DIO Course Skills** - in 08/10/2026
  <img src="https://github.com/glauciareginacosta-tech/glauciareginacosta-tech/blob/main/image2.png" width="50%">
