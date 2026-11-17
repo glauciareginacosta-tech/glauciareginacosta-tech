@@ -42,9 +42,9 @@ With over 20 years of experience in IT, systems, and project management, I speci
 - **Agile Couse:** Leading SAFe
 - **Inclusive Leadership Professional Certificate** – CatalystX / edX
 - **DIO Course Skills** - in 11/2026
- <img src="https://github.com/glauciareginacosta-tech/glauciareginacosta-tech/blob/main/image2_.png" width="50%">
+ <img src="https://github.com/glauciareginacosta-tech/glauciareginacosta-tech/blob/main/imagem2_.png" width="50%">
  <BR>
- <img src="https://github.com/glauciareginacosta-tech/glauciareginacosta-tech/blob/main/image3_.jpg" width="50%">
+ <img src="https://github.com/glauciareginacosta-tech/glauciareginacosta-tech/blob/main/imagem3_.jpg" width="50%">
   
 ---
 
